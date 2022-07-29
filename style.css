@@ -1,0 +1,42 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+
+.front-page {
+    text-align: center;
+    padding-top: 70px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-image: url(images/donation.jpg);
+    margin-bottom: 20px;
+}
+
+.Header {
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+    font-size: large;
+}
+
+button {
+    color: blue;
+    font-size: larger;
+    background-color: chartreuse;
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-weight: 1000px;
+}
+
+.donation-amount {
+    text-align: center;
+    padding-top: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
