@@ -111,6 +111,11 @@ h1 {
     color: darkslategray;
 }
 
+.font-shape {
+    font-size: 50px;
+    display: flex;
+}
+
 .font {
     font-size: 15px;
     padding-right: 4px;
